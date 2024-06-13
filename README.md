@@ -1,7 +1,7 @@
 # StockVision
-StockVision is a web application that allows users to search for stock information, view detailed company profiles, stock summaries, historical charts, and the latest news. This project is built using Python and Flask, and utilizes various APIs such as Finnhub and Polygon.io to fetch stock data.
+StockVision is a web application that allows users to search for stock information, view detailed company profiles, stock summaries, historical charts, and the latest news. This project is built using Python and Flask, and utilizes various APIs to fetch stock data.
 
-
+https://github.com/kevinM01/Stock-Trading-Website/assets/78092182/0d633bbf-852c-4dff-b129-f459294fc8ea
 
 # Project Description
 StockVision is designed to provide users with comprehensive stock market data. Users can enter a stock ticker symbol to retrieve and view data in a tabular format, along with interactive charts and news articles related to the stock. The project demonstrates the use of Python, Flask, and various web technologies, deployed on cloud platforms such as Google Cloud App Engine.
@@ -24,12 +24,10 @@ Backend: Python, Flask
 
 Frontend: HTML, CSS, JavaScript, HighCharts
 
-APIs: Finnhub Stock API, Polygon.io API
-
-Deployment: Google Cloud App Engine, AWS, or Azure
+Deployment: Google Cloud App Engine
 
 # For source code Contact
-@Author: Kevin Masalia @kevinM01
+@Author: [Kevin Masalia @kevinM01](https://github.com/kevinM01)
 
 # Demonstration
 
