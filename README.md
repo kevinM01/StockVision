@@ -33,12 +33,12 @@ Deployment: Google Cloud App Engine, AWS, or Azure
 
 # Demonstration
 
-https://github.com/kevinM01/StockVision/assets/78092182/c4a2420f-09e8-4afd-ba5e-1e0f30ee40c0
+![home](https://github.com/kevinM01/StockVision/assets/78092182/c4a2420f-09e8-4afd-ba5e-1e0f30ee40c0)
 
-https://github.com/kevinM01/StockVision/assets/78092182/5432299c-239a-4a7c-a03c-f084aef8d0cd
+![home](https://github.com/kevinM01/StockVision/assets/78092182/5432299c-239a-4a7c-a03c-f084aef8d0cd)
 
-https://github.com/kevinM01/StockVision/assets/78092182/b8a4e9c3-8894-43e8-94c3-99f7b59a0614
+![home](https://github.com/kevinM01/StockVision/assets/78092182/b8a4e9c3-8894-43e8-94c3-99f7b59a0614)
 
-https://github.com/kevinM01/StockVision/assets/78092182/2d58ff26-ebfe-4c5b-be51-07ab690d86f9
+![home](https://github.com/kevinM01/StockVision/assets/78092182/2d58ff26-ebfe-4c5b-be51-07ab690d86f9)
 
-https://github.com/kevinM01/StockVision/assets/78092182/e9768d08-8c59-4927-8bde-0d25e6daffd6
+![home](https://github.com/kevinM01/StockVision/assets/78092182/e9768d08-8c59-4927-8bde-0d25e6daffd6)
